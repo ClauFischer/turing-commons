@@ -1,7 +1,7 @@
 # Introduction to Normative Ethical Theories
 
 In contrast with metaethics, which is concerned with the *nature* of ethics, normative ethics is concerned with the *content* of ethical theories. Normative ethical theories attempt to give an answer to the question of what makes someone ethical, or what makes certain actions morally permissible.
-Ethical theories are varied and they come in different flavours. Here we will group them into the three main families of theories.
+Ethical theories are varied and they come in different flavours. Here we will group them into XXX families of theories.
 
 ## Consequentialist Theories
 Consequence-based theories are normative theories which, as the name suggests, define whether an action is morally permissible in terms of the consequences it brings about. In simple terms, they define morality as a matter of maximising the *best possible consequences* in any given situation.
@@ -15,7 +15,7 @@ However, what makes a normative ethical theory consequentialist is that, given a
 
 ## Deontological Theories (or principles-based theories)
 
-Deontological theories in contrast, take a different approach. Morality is not to be measured by the consequences actions bring about, but instead morality dictates that one should follow a set of rules or principles regardless of what the consequences are. 
+Deontological theories in contrast, take a different approach. Morality is not to be measured by the consequences actions bring about, but instead morality dictates that one should follow a set of rules or principles regardless of what the consequences are. That is, the rightness of an action is determined by an agent’s application of some universal standard, rule, or maxim of rightness irrespective of its consequences and independent of the interests or ends of the agent whose conduct the standard, rule, or maxim is guiding.
 
 The most famous proponent of deontological theories is Immanuel Kant, who was a firm believer in rule or duty-based morality, and who went as far as to define the maxim or principle to be followed in order to act morally which we called the Categorical Imperative. This rule roughly states that one must always act as if one’s actions could be willed into a universal rule that everyone in society follows. 
 
@@ -25,7 +25,20 @@ In principle-based theories, morality is about following a set of rules or princ
 
 Virtue ethics is not concerned with how people should act in a particular situation, but instead on what *kind* of people they are. Its roots can be found in Confucius and Mencius in the East and in Plato and Aristotle in the West. 
 
-Virtue ethicists emphasise that morality has to do with having a certain moral character which is achieved by cultivating virtues. A virtue is an excellent trait of character (@sep-virtue-ethics), and it comes in degrees. These traits may derive from natural tendencies, but they must also be nurtured. Under these theories, a person who acts in a kind or benevolent way (these would be the virtues) does not do so because doing so would maximise the outcome of her actions (as a consequentialist would), or because it is her duty to do so (as deontology would advise), but instead because acting in that way cultivates said virtues.
+Instead of beginning with the question: “What should I do?”, it asks the question: “What sort of person should I strive to
+become in order to live an ethical life?”. Virtue ethicists emphasise that morality has to do with having a certain moral character which is achieved by cultivating virtues. A virtue is an excellent trait of character (@sep-virtue-ethics), and it comes in degrees.
+
+These traits may derive from natural tendencies, but they must also be nurtured. Under these theories, a person who acts in a kind or benevolent way (these would be the virtues) does not do so because doing so would maximise the outcome of her actions (as a consequentialist would), or because it is her duty to do so (as deontology would advise), but instead because acting in that way cultivates said virtues.
+
+The development of moral virtues through practice, discipline, and repetition is the purpose of the human form of life. For this ethical view to work, there must be some reserve of objective moral values available for agents to draw on to form virtuous habits and dispositions.
+
+Some of the virtues stressed in antiquity but also justified in modern secular ethics: wisdom (ability to exercise practical reason to determine right action); temperance (ability to remain cool-headed and guided by reason instead of emotion); courage (ability to confront danger boldly and with self-assurance); justice (ability to act impartially and with fairness).
+
+## Bio-centric ethics
+
+Biocentric ethics attempts to justify moral responsibility and the rightness of action not in a human-centered way but in terms of the intrinsic value of all life forms and ecologies. It treats “nature” (the living biosphere) not as an instrument or resource available to be used to achieve the purposes of human industry but rather as an entity that makes a moral claim on us.
+
+Moral actions from the biocentric perspective preserve the flourishing and the diversity of all living beings and aim to secure the sustenance of the biosphere as a whole.
 
 For the purposes of the rest of the course we will focus mostly on the first two families of theories, with a particular focus on principles-based approaches to ethics.
 
