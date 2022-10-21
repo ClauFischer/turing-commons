@@ -16,6 +16,8 @@ However, responsible AI project delivery requires confronting two relevant chall
 ::: "Accountability gap"
 
     Automated decisions are not self-justifiable. Whereas human agents can be called to account for their judgements and decisions in instances where those judgments and decisions affect the interests of others, the statistical models and underlying hardware that compose AI systems are not responsible in the same morally relevant sense. This creates an accountability gap that must be addressed so that clear and imputable sources of human answerability can be attached to decisions assisted or produced by an AI system.
+
+:::
     
 !!! danger "Complexity of AI production processes"
 
